@@ -51,8 +51,9 @@ python3 QuantumChessPygame.py
 - Hybrid algorithm (SBMA) for hyper parameters optimization
 - Built with Cirq for quantum simulation
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you'd like to contribute. For major changes, please discuss what you would like to change beforehand to ensure it aligns with the project's goals
+## Contributors
+- Piero Pastor Pacheco
+- Fabrizzio Gomez Buccalo
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
